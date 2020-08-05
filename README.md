@@ -12,7 +12,7 @@ To show(1)/hide(2) console window when running executable:
 - Properties
   - Linker
     - System
-	  - SubSystem: 
+      - SubSystem: 
 	    1. Console (/SUBSYSTEM:CONSOLE)
 		2. Windows (/SUBSYSTEM:WINDOWS)
     - Advanced
