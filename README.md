@@ -13,12 +13,12 @@ To show(1)/hide(2) console window when running executable:
   - Linker
     - System
       - SubSystem: 
-	    1. Console (/SUBSYSTEM:CONSOLE)
-		2. Windows (/SUBSYSTEM:WINDOWS)
+	1. Console (/SUBSYSTEM:CONSOLE)
+	2. Windows (/SUBSYSTEM:WINDOWS)
     - Advanced
       - Entry Point
-	    1. (BLANK)
-		2. mainCRTStartup
+	1. (BLANK)
+	2. mainCRTStartup
 ```
 
 Default: hidden
